@@ -85,20 +85,3 @@ If you want to contribute to the community Please post the json you made after a
 ## **DISCLAIMER**
 
 Please note that self botting is against Discord's Terms of Service and being discovered using a self bot may result in your account being banned. To avoid this, keep knowledge of your self bot to a minimum and use a throwaway account. I am not responsible for any accounts lost due to the self bot. I also recommend checking the self bot channel's messages occasionally to see if Pokétwo has sent a captcha. **If it has, it would be a good idea to solve it.**
-
----
-
-## Support Server 
-[Click here to join support server](https://discord.gg/FJD29BV8Np)
-
----
-
-## Acknowledgements
-### Creators
-* 🔥⃤•AK_ØPᵈᵉᵛ✓#6326 [Click to DM](https://discordapp.com/users/503928755341885450)
-* akshatop [Click to DM](https://discordapp.com/users/503928755341885450)
-
-### Contributors
-* 🔥⃤•AK_ØPᵈᵉᵛ✓#6326 
-
----
