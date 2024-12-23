@@ -6,10 +6,7 @@ A second generation **free** and open-source Pokétwo autocatcher, created with 
 😄😇 **Star this Repo if you find it useful**
 
 ---
-
-### Youtube Tutorial
-https://www.youtube.com/watch?v=Qqog9HaNU8Y
-
+Call me ;) 
 ---
 
 
