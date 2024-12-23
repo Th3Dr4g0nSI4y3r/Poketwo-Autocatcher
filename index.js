@@ -1,5 +1,5 @@
 /*
-@Developer: 🔥⃤•AK_ØPᵈᵉᵛ✓#6326 / akshatop
+@Developer: 🔥TheDragonSlayer#2222 / Zalid
 Name: Poketwo-Autocatcher
 Version: V1.3.2
 Description: bot to help users with catching pokemons
@@ -62,7 +62,7 @@ function checkSpawnsRemaining(string) {
 //-------------------------READY HANDLER+SPAMMER-----------------------//
 
 client.on('ready', () => {
-    console.log("https://github.com/AkshatOP/Poketwo-Autocatcher - Made by 🔥⃤•AK_ØPᵈᵉᵛ✓#6326 / akshatop")
+    console.log("https://github.com/AkshatOP/Poketwo-Autocatcher - Made by 🔥TheDragonSlayer#2222 / Zalid")
     console.log(`Acount: ${client.user.username} is ONLINE, `)
     console.log("Note: When your using Incense then make sure it occurs in a separate channel where hint bots like pokename/sierra aren't enabled to send message there!")
     console.log("Use $help to know about commands")
@@ -75,7 +75,7 @@ client.on('ready', () => {
 
     function spam() {
         const result = Math.random().toString(36).substring(2, 15);
-        channel.send(result + "(Made by 🔥⃤•AK_ØPᵈᵉᵛ✓#6326) ")
+        channel.send(result + "(Made by 🔥TheDragonSlayer#2222) ")
         const randomInterval = getRandomInterval(1500, 5000); // Random interval for spam between 1 second and 5 seconds
         setTimeout(spam, randomInterval);
     }
